@@ -24,6 +24,7 @@ public class Program
     public static void IntroRocket22()
     {
         Console.WriteLine("안녕하세요 Rocket22 입니다.");
+    }
     public static void IntroSeung611()
     {
         Console.WriteLine("류승민 / 안녕하세요");
